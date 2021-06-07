@@ -1,0 +1,1 @@
+(self.webpackChunkyukyu_document=self.webpackChunkyukyu_document||[]).push([[738],{5055:function(u){"use strict";u.exports=JSON.parse('{"allTagsPath":"/yukyu_document/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/yukyu_document/blog/tags/docusaurus"}')}}]);

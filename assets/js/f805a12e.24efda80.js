@@ -1,0 +1,1 @@
+(self.webpackChunkyukyu_document=self.webpackChunkyukyu_document||[]).push([[329],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/yukyu_document/blog/welcome"},{"title":"Hello","permalink":"/yukyu_document/blog/hello-world"},{"title":"Hola","permalink":"/yukyu_document/blog/hola"}]}')}}]);
