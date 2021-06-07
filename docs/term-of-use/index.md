@@ -2,5 +2,5 @@
 sidebar_position: 1
 ---
 
-# はじめに
-aas
+# 共通利用規約
+

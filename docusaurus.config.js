@@ -1,17 +1,17 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Yukyu Document Site',
-  tagline: '創作物および制作物に関する規約サイト',
+  tagline: '制作物に関する規約一覧',
   url: 'https://yukyu30.github.io',
   baseUrl: '/yukyu_document/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'yukyu', // Usually your GitHub org/user name.
+  organizationName: 'yukyu30', // Usually your GitHub org/user name.
   projectName: 'yukyu_document', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Yukyu Document Site',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -21,13 +21,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          label: 'Docs',
         },
       ],
     },
@@ -38,43 +32,51 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'はじめに',
               to: '/docs/intro',
             },
+            {
+                label: '利用規約',
+                to: '/docs/intro',
+            },
+            {
+                label: '連絡先',
+                to: '/docs/contact',
+            },
           ],
         },
         {
-          title: 'Community',
+          title: 'SNS',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/yukyu30',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Site',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Booth',
+              href: 'https://uq-konpeki-dou.booth.pm/',
+            },
+            {
+              label:'pixiv fanbox',
+              href: 'https://yukyu30.fanbox.cc/',
+            },
+            {
+              label: 'SUZURI',
+              href:'https://suzuri.jp/yukyu_konpeki_dou',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/yukyu30',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} yukyu`,
     },
   },
   presets: [
