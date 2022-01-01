@@ -1,1 +1,0 @@
-(self.webpackChunkyukyu_document=self.webpackChunkyukyu_document||[]).push([[575],{7428:function(u){"use strict";u.exports=JSON.parse('{"allTagsPath":"/yukyu_document/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/yukyu_document/blog/tags/hola"}')}}]);
