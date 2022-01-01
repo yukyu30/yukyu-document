@@ -55,7 +55,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Site',
+          title: 'Other Site',
           items: [
             {
               label: 'Booth',
@@ -66,8 +66,8 @@ module.exports = {
               href: 'https://yukyu30.fanbox.cc/',
             },
             {
-              label: 'SUZURI',
-              href:'https://suzuri.jp/yukyu_konpeki_dou',
+              label: 'hub.yukyu.net',
+              href:'https://hub.yukyu.net',
             },
             {
               label: 'GitHub',
