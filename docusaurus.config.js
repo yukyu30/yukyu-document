@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/yukyu_document/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
   organizationName: 'yukyu30', // Usually your GitHub org/user name.
   projectName: 'yukyu_document', // Usually your repo name.
   themeConfig: {
@@ -44,6 +44,15 @@ module.exports = {
                 to: '/docs/contact',
             },
           ],
+        },
+        {
+            title:'Community',
+            items:[
+                {
+                    label: 'Github Repo',
+                    href: 'https://github.com/yukyu30/yukyu_document/',
+                }
+            ]
         },
         {
           title: 'SNS',
@@ -87,13 +96,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/yukyu30/yukyu_document/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/yukyu30/yukyu_document/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

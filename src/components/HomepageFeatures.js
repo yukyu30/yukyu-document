@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
 //   {
-//     title: 'Easy to Use',
+//     title: 配布先,
 //     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
 //     description: (
 //       <>
@@ -13,16 +13,19 @@ const FeatureList = [
 //       </>
 //     ),
 //   },
-//   {
-//     title: 'Focus on What Matters',
-//     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
-//     description: (
-//       <>
-//         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-//         ahead and move your docs into the <code>docs</code> directory.
-//       </>
-//     ),
-//   },
+  {
+    title: (
+        <>
+          <a href='https://uq-konpeki-dou.booth.pm/'>Booth</a>
+        </>
+      ),
+    Svg: require('../../static/img/download.svg').default,
+    description: (
+      <>
+        こちらから配布物をダウンロードできます。
+      </>
+    ),
+  },
 //   {
 //     title: 'Powered by React',
 //     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,

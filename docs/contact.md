@@ -3,4 +3,5 @@ sidebar_position: 3
 ---
 
 # 連絡先
-aas
+yukyu(悠久)
+Twitter：https://twitter.com/yukyu30
