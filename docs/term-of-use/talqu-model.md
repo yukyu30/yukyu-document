@@ -7,6 +7,7 @@ sidebar_position: 2
 本利用規約の変更履歴は[GitHubリポジトリ](https://github.com/yukyu30/yukyu_document/commits/master/docs/term-of-use/talqu-model.md)に公開されています。
 :::
 
+
 TALQuモデルに関する利用規約（以下，「本規約」といいます。）は、yukyu（以下，「当方」といいます。）の声をもとに作成された機械学習音声モデル（以下、「本モデル」といいます。）の利用条件を定めるものです。利用者の皆さまには、本規約に従って、本モデルをご利用いただきます。
 
 ## 定義
@@ -55,6 +56,10 @@ TALQuモデルに関する利用規約（以下，「本規約」といいます
 5. 著作情報を偽ること
 6. FlatBaseModel ( https://github.com/Haruqa/tacotron2/releases )の利用規約に反する利用
 7. その他、当方が不適当と判断した利用
+
+:::note
+本利用規約をよんでも解決しなかった場合、[よくある質問](https://yukyu30.github.io/yukyu-document/docs/faq/)もご覧ください。
+:::
 
 ## 本規約等の変更
 本利用規約は予告なく改訂される可能性があります。
