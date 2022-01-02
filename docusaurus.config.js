@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
   organizationName: 'yukyu30', // Usually your GitHub org/user name.
-  projectName: 'yukyu_document', // Usually your repo name.
+  projectName: 'yukyu-document', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Yukyu Document Site',
@@ -33,7 +33,11 @@ module.exports = {
           items: [
             {
                 label: '利用規約',
-                to: '/docs/term-of-use/index',
+                to: '/docs/term-of-use',
+            },
+            {
+                label: 'よくある質問',
+                to: '/docs/faq',
             },
             {
                 label: '連絡先',
