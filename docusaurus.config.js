@@ -19,7 +19,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'term-of-use/index',
           position: 'left',
           label: 'Docs',
         },
@@ -32,12 +32,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'はじめに',
-              to: '/docs/intro',
-            },
-            {
                 label: '利用規約',
-                to: '/docs/intro',
+                to: '/docs/term-of-use/index',
             },
             {
                 label: '連絡先',
