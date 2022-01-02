@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyukyu_document=self.webpackChunkyukyu_document||[]).push([[392],{1472:function(u){u.exports={blogPosts:[]}}}]);
