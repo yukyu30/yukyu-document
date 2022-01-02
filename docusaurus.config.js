@@ -3,7 +3,7 @@ module.exports = {
   title: 'Yukyu Document Site',
   tagline: '制作物に関する規約一覧',
   url: 'https://yukyu30.github.io',
-  baseUrl: '/yukyu_document/',
+  baseUrl: '/yukyu-document/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
@@ -46,7 +46,7 @@ module.exports = {
             items:[
                 {
                     label: 'Github Repo',
-                    href: 'https://github.com/yukyu30/yukyu_document/',
+                    href: 'https://github.com/yukyu30/yukyu-document/',
                 }
             ]
         },
@@ -92,13 +92,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/yukyu30/yukyu_document/edit/master',
+            'https://github.com/yukyu30/yukyu-document/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/yukyu30/yukyu_document/edit/master/',
+            'https://github.com/yukyu30/yukyu-document/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

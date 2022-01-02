@@ -14,14 +14,15 @@ TALQuモデルに関する利用規約（以下，「本規約」といいます
 - 「出力音声」とは、本モデルをもとに生成された音声のことをいいます。
 
 ## 学習ベースモデルについて
-本モデルはFlatBaseModel ( https://github.com/Haruqa/tacotron2/releases ) をベースとして作成されました。
+本モデルはFlatBaseModel ( https://github.com/Haruqa/tacotron2/releases ) をベースとして作成されました。  
+以下はFlatBaseModelの利用規約の引用になります。最新版の利用規約は https://github.com/Haruqa/tacotron2/releases でご確認ください。
 
-FlatBaseModelモデルを使用して作成されたモデルには、FlatBaseModelモデルを使用した旨を表示する義務があります  
+> このモデルを使用して作成されたモデルには、このモデルを使用した旨を表示する義務があります  
 表示例：このモデルはFlatBaseModel ( https://github.com/Haruqa/tacotron2/releases ) をベースとして作成されました  
-FlatBaseModelモデルを使用して作成されたモデルをさらにベースとする場合も、同様に表記する義務があります  
+このモデルを使用して作成されたモデルをさらにベースとする場合も、同様に表記する義務があります  
 表示例：このモデルのベースにはFlatBaseModel ( https://github.com/Haruqa/tacotron2/releases ) を含みます  
-
-このモデルを使用して作成されたモデルから出力した音声に、上記表示義務は継承されません。
+<br/> 
+このモデルを使用して作成されたモデルから出力した音声に、上記表示義務は継承されません
 
 ## ITAコーパスについて
 このモデルはITAコーパス( https://github.com/mmorise/ita-corpus )を用いて作成されました。
