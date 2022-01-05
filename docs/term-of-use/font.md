@@ -42,10 +42,11 @@ sidebar_position: 1
 http://ymnk-design.com/%E3%83%90%E3%83%8A%E3%83%8A%E3%82%B9%E3%83%AA%E3%83%83%E3%83%97/
 
 ## 附則
-2022年01月02日制定
+2022年01月02日制定  
 
-以上
----
+以上  
+<hr/>
+
 :::note
-本利用規約をよんでも解決しなかった場合、[よくある質問](https://yukyu30.github.io/yukyu_document/docs/faq/)もご覧ください。
+本利用規約をよんでも解決しなかった場合、[よくある質問](https://yukyu30.github.io/yukyu-document/docs/faq/)もご覧ください。
 :::
