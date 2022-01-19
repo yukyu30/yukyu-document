@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Yukyu Document Site Blog</title>
+        <link>https://yukyu30.github.io/yukyu-document/blog</link>
+        <description>Yukyu Document Site Blog</description>
+        <lastBuildDate>Wed, 19 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[利用規約の改定]]></title>
+            <link>https://yukyu30.github.io/yukyu-document/blog/2022/01/19/update</link>
+            <guid>/2022/01/19/update</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[変更点]]></description>
+            <content:encoded><![CDATA[<h2>変更点</h2><ul><li><p><strong>TALQuの出力音声の利用規約を個別に「出力音声に関する利用規約」として制定しました。</strong><br/>
+<!-- -->今後、他のツールにおいて音声が合成される機会が増えることを鑑みて、すべての出力音声に対する利用規約として制定しました。</p></li><li><p><strong>出力音声に関する利用規約の制定に際して、クレジット表記のルールを変更しました。</strong><br/>
+<!-- -->ニコニコ動画に投稿する際には、ニコニコモンズより<a href="https://commons.nicovideo.jp/material/nc262823">yukyu音声ライセンス</a>を親作品として登録することを必須としました。<br/>
+<!-- -->概要欄、動画内でのクレジット表記は任意になります。また、ニコニコ動画以外のプラットフォームでの投稿に関してはクレジット表記は任意となります。
+<a href="https://yukyu30.github.io/yukyu-document/docs/term-of-use/voice#%E5%87%BA%E5%8A%9B%E9%9F%B3%E5%A3%B0%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E8%A1%A8%E8%A8%98">詳細はこちらをご覧ください。</a></p></li></ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
