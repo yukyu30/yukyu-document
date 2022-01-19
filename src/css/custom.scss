@@ -29,7 +29,7 @@
     h1{
         font-size: var(--ifm-custom-h1-font-size);
     }
-    h2 {
+    h2:not(.text--truncate){
         font-size: var(--ifm-custom-h2-font-size);
         padding-bottom: 0.5em;
         border-bottom: 1px solid var(--ifm-toc-border-color);
