@@ -23,6 +23,7 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
+        {to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {
@@ -48,6 +49,10 @@ module.exports = {
         {
             title:'Community',
             items:[
+                {
+                    label: 'Blog',
+                    to: '/blog',
+                },
                 {
                     label: 'Github Repo',
                     href: 'https://github.com/yukyu30/yukyu-document/',
