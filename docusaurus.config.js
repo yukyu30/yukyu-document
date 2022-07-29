@@ -3,7 +3,7 @@ module.exports = {
   title: 'Yukyu Document Site',
   tagline: '制作物に関する規約一覧',
   url: 'https://yukyu30.github.io',
-  baseUrl: '/yukyu-document/',
+  baseUrl: '/yukyu_document_site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
