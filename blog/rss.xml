@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Yukyu Document Site Blog</title>
-        <link>https://yukyu30.github.io/yukyu-document/blog</link>
+        <link>https://yukyu30.github.io/yukyu_document_site/blog</link>
         <description>Yukyu Document Site Blog</description>
         <lastBuildDate>Wed, 19 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[利用規約の改定]]></title>
-            <link>https://yukyu30.github.io/yukyu-document/blog/2022/01/19/update</link>
+            <link>https://yukyu30.github.io/yukyu_document_site/blog/2022/01/19/update</link>
             <guid>/2022/01/19/update</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[変更点]]></description>
