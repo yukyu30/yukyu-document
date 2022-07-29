@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyukyu_document=self.webpackChunkyukyu_document||[]).push([[312],{3496:function(e){e.exports=JSON.parse('{"permalink":"/yukyu-document/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

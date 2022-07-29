@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yukyu30.github.io/yukyu_document_site/blog</id>
+    <id>https://yukyu30.github.io/yukyu-document/blog</id>
     <title>Yukyu Document Site Blog</title>
     <updated>2022-01-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yukyu30.github.io/yukyu_document_site/blog"/>
+    <link rel="alternate" href="https://yukyu30.github.io/yukyu-document/blog"/>
     <subtitle>Yukyu Document Site Blog</subtitle>
-    <icon>https://yukyu30.github.io/yukyu_document_site/img/logo.svg</icon>
+    <icon>https://yukyu30.github.io/yukyu-document/img/logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[利用規約の改定]]></title>
         <id>/2022/01/19/update</id>
-        <link href="https://yukyu30.github.io/yukyu_document_site/blog/2022/01/19/update"/>
+        <link href="https://yukyu30.github.io/yukyu-document/blog/2022/01/19/update"/>
         <updated>2022-01-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[変更点]]></summary>
         <content type="html"><![CDATA[<h2>変更点</h2><ul><li><p><strong>TALQuの出力音声の利用規約を個別に「出力音声に関する利用規約」として制定しました。</strong><br/>
