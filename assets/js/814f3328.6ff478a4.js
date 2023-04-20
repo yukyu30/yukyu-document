@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyukyu_document=self.webpackChunkyukyu_document||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u5229\u7528\u898f\u7d04\u306e\u6539\u5b9a","permalink":"/yukyu-document/blog/2022/01/19/update"}]}')}}]);

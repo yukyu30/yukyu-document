@@ -4,9 +4,21 @@
         <title>Yukyu Document Site Blog</title>
         <link>https://yukyu30.github.io/yukyu-document/blog</link>
         <description>Yukyu Document Site Blog</description>
-        <lastBuildDate>Wed, 19 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[利用規約の改定と追加]]></title>
+            <link>https://yukyu30.github.io/yukyu-document/blog/2022/04/21/update</link>
+            <guid>/2022/04/21/update</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[変更点]]></description>
+            <content:encoded><![CDATA[<h2>変更点</h2><ul><li><p><strong>「出力音声に関する利用規約」を改定し,出力音声に対して、任意となっていたクレジット表記を必須としました。</strong>  </p></li><li><p><strong>「出力音声に関する利用規約」を改定し,禁止事項にyukyuの発言を偽ることを追加しました</strong><br/>
+<!-- -->昨今の急激な音声合成の技術の進歩に伴い、yukyuと発言と混同されることを防ぐため今回このような改訂を行いました。
+<a href="https://github.com/yukyu30/yukyu-document/commit/e8e94aeb7aef1216d6b9ed318d89f4ff68820d61">利用規約の差分はこちら</a></p></li><li><p><strong>「ボイスモデルに関する利用規約」の制定</strong><br/>
+<a href="https://yukyu30.github.io/yukyu-document/docs/term-of-use/rvc-model">ボイスモデルに関する利用規約</a>を制定しました。
+RVC向けのボイスモデルの公開を予定しているため制定しました。既存の音声モデル（TALQuモデル)、販売物の利用に制限が新たに加わるものではありません。</p></li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[利用規約の改定]]></title>
             <link>https://yukyu30.github.io/yukyu-document/blog/2022/01/19/update</link>

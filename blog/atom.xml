@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yukyu30.github.io/yukyu-document/blog</id>
     <title>Yukyu Document Site Blog</title>
-    <updated>2022-01-19T00:00:00.000Z</updated>
+    <updated>2022-04-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yukyu30.github.io/yukyu-document/blog"/>
     <subtitle>Yukyu Document Site Blog</subtitle>
     <icon>https://yukyu30.github.io/yukyu-document/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[利用規約の改定と追加]]></title>
+        <id>/2022/04/21/update</id>
+        <link href="https://yukyu30.github.io/yukyu-document/blog/2022/04/21/update"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[変更点]]></summary>
+        <content type="html"><![CDATA[<h2>変更点</h2><ul><li><p><strong>「出力音声に関する利用規約」を改定し,出力音声に対して、任意となっていたクレジット表記を必須としました。</strong>  </p></li><li><p><strong>「出力音声に関する利用規約」を改定し,禁止事項にyukyuの発言を偽ることを追加しました</strong><br/>
+<!-- -->昨今の急激な音声合成の技術の進歩に伴い、yukyuと発言と混同されることを防ぐため今回このような改訂を行いました。
+<a href="https://github.com/yukyu30/yukyu-document/commit/e8e94aeb7aef1216d6b9ed318d89f4ff68820d61">利用規約の差分はこちら</a></p></li><li><p><strong>「ボイスモデルに関する利用規約」の制定</strong><br/>
+<a href="https://yukyu30.github.io/yukyu-document/docs/term-of-use/rvc-model">ボイスモデルに関する利用規約</a>を制定しました。
+RVC向けのボイスモデルの公開を予定しているため制定しました。既存の音声モデル（TALQuモデル)、販売物の利用に制限が新たに加わるものではありません。</p></li></ul>]]></content>
+        <author>
+            <name>yukyu</name>
+            <uri>http://twitter.com/yukyu30</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用規約の改定]]></title>
         <id>/2022/01/19/update</id>
