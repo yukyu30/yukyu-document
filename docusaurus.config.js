@@ -23,7 +23,7 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
       ],
     },
     footer: {
@@ -33,31 +33,31 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-                label: '利用規約',
-                to: '/docs/term-of-use',
+              label: '利用規約',
+              to: '/docs/term-of-use',
             },
             {
-                label: 'よくある質問',
-                to: '/docs/faq',
+              label: 'よくある質問',
+              to: '/docs/faq',
             },
             {
-                label: '連絡先',
-                to: '/docs/contact',
+              label: '連絡先',
+              to: '/docs/contact',
             },
           ],
         },
         {
-            title:'Community',
-            items:[
-                {
-                    label: 'Blog',
-                    to: '/blog',
-                },
-                {
-                    label: 'Github Repo',
-                    href: 'https://github.com/yukyu30/yukyu-document/',
-                }
-            ]
+          title: 'Community',
+          items: [
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
+            {
+              label: 'Github Repo',
+              href: 'https://github.com/yukyu30/yukyu-document/',
+            },
+          ],
         },
         {
           title: 'SNS',
@@ -72,16 +72,20 @@ module.exports = {
           title: 'Other Site',
           items: [
             {
+              label: 'SUZURI',
+              href: 'https://suzuri.jp/yukyu30',
+            },
+            {
               label: 'Booth',
               href: 'https://uq-konpeki-dou.booth.pm/',
             },
             {
-              label:'pixiv fanbox',
+              label: 'pixiv fanbox',
               href: 'https://yukyu30.fanbox.cc/',
             },
             {
-              label: 'hub.yukyu.net',
-              href:'https://hub.yukyu.net',
+              label: 'yukyu.net',
+              href: 'https://yukyu.net',
             },
             {
               label: 'GitHub',
@@ -100,14 +104,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/yukyu30/yukyu-document/edit/master',
+          editUrl: 'https://github.com/yukyu30/yukyu-document/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/yukyu30/yukyu-document/edit/master/',
+          editUrl: 'https://github.com/yukyu30/yukyu-document/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
