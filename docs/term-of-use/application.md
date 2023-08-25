@@ -13,7 +13,8 @@ sidebar_position: 3
 ## 本利用規約が適用されるアプリケーション
 以下に記載されているアプリケーションは、本利用規約が適用されます。
 
-- https://hakusyu.vercel.app/
+- https://hakusyu.vercel.app
+- https://quizbite.yukyu.net
 
 ## 禁止事項
 以下に定める事項においては、アプリケーションの利用を許可しません。
@@ -34,6 +35,7 @@ sidebar_position: 3
 当方は一切責任を負いません。
 
 ## 附則
+2023年08年25日改定
 2022年12月16日制定  
 
 以上  
